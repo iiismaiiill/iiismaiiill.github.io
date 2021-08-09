@@ -1,4 +1,4 @@
 # iiismaiiill.github.io
-Kişisel Web Sayfam(deneme)
+*Kişisel Web Sayfam(deneme)
 
-#deneme sayfam
+*Deneme sayfam
